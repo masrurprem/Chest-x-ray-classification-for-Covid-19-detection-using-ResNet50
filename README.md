@@ -1,2 +1,2 @@
 # Chest-x-ray-classification-for-Covid-19-detection-using-ResNet50
-Covid-19 detection from Chest x-ray images using pretrained ResNet50 model
+in this project, A pretrained Resnet50 model has been employed for chest x-ray image classification for detecting Covid-19. The dataset was downloaded from kaggle having 21,000 chest x-ray images and corresponding masks. Of them, 1800 images were taken randomly of 3 classes: covid, normal, and viral pneumonia. Each class contains 500 images for training and 100 images for testing per class. 
